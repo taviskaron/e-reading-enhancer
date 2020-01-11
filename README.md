@@ -1,20 +1,21 @@
-e-reading enhancer
+﻿e-reading enhancer
 ====================
+Небольшой скрипт для Greasemonkey для улучшения функциональности работы библиотеки E-reading.
 
-A small Greasemonkey script adding some extra functions to E-READING online library. 
 
-FEATURES
+Возможности
 --------
+В текущей версии реализовано следующее:
 
-It allows a user to: 
+*возможность сжимать тексты до типографически удобной длины строки,
+*использовать другие шрифты с засечками и без,
+*выравнивать текст левым флагом или по формату.
 
-*narrow the main text container down to a comfortable width,
-*use serif or sans serif fonts,
-*get the paragraphs aligned left of justify.
-
-Due to repetitive site blocking, the script will be updated responsively.
+Из-за постоянной блокировки сайтов, скрипт будет обновляться по мере необходимости.
 
 REQUIREMENTS
 ------------
+Нужно установить расширение Greasemonkey или Tempermonkey, скачать скрипт и либо:
 
-You've got to install Greasemonkey or Tempermonkey to use the script.
+- заархивировать его и экспортировать стандартными средствами,
+- создать новый скрипт, поместив в него код текущего.
