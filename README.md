@@ -24,11 +24,11 @@
 Скриншоты
 ---------
 
-##№ Без скрипта
+### Без скрипта
 
 ![](https://raw.githubusercontent.com/taviskaron/e-reading-enhancer/master/screenshots/screenshot1.jpg)
 
-##№ Результат работы скрипта
+### Результат работы скрипта
 
 ![](https://raw.githubusercontent.com/taviskaron/e-reading-enhancer/master/screenshots/screenshot2.jpg)
 
