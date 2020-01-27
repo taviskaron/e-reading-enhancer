@@ -19,3 +19,17 @@
 
 - заархивировать его и экспортировать стандартными средствами,
 - создать новый скрипт, поместив в него код текущего.
+
+
+Скриншоты
+---------
+
+##№ Без скрипта
+
+![](https://raw.githubusercontent.com/taviskaron/e-reading-enhancer/master/screenshots/screenshot1.jpg)
+
+##№ Результат работы скрипта
+
+![](https://raw.githubusercontent.com/taviskaron/e-reading-enhancer/master/screenshots/screenshot2.jpg)
+
+![](https://raw.githubusercontent.com/taviskaron/e-reading-enhancer/master/screenshots/screenshot3.jpg)
